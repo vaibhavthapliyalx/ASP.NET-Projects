@@ -1,0 +1,26 @@
+﻿@page
+@model Practical2.pages.CalculatorModel
+@{
+}
+
+<form method ="post" action="">
+    <table>
+        <tr>
+            <td>First Number</td><td>
+                <input name ="First" type="text" value="@ViewData["First"]"/></td>
+                </tr>
+                <tr>
+                    <td>Second Number</td><td>
+                        <input name="Second" type="text" value="@ViewData["Second"]"/>
+                    </td>
+                </tr>
+    <td></td><td>
+    <input type="submit" value ="add" name="Command"/>
+    <input type="submit" value ="sub" name="Command"/>
+    <input type="submit" value ="mul" name="Command"/>
+    <input type="submit" value ="div" name="Command"/>
+    <input type="submit" value ="clear" name="Command"/>
+     </td>
+    </table>
+</form>
+<p>Result:@ViewData["Result"]</p>

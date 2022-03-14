@@ -1,0 +1,8 @@
+/Users/vaibhavthapliyal/Desktop/COM412/Practical1/obj/Debug/net5.0/Practical1.csproj.AssemblyReference.cache
+/Users/vaibhavthapliyal/Desktop/COM412/Practical1/obj/Debug/net5.0/Practical1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vaibhavthapliyal/Desktop/COM412/Practical1/obj/Debug/net5.0/Practical1.AssemblyInfoInputs.cache
+/Users/vaibhavthapliyal/Desktop/COM412/Practical1/obj/Debug/net5.0/Practical1.AssemblyInfo.cs
+/Users/vaibhavthapliyal/Desktop/COM412/Practical1/obj/Debug/net5.0/Practical1.csproj.CoreCompileInputs.cache
+/Users/vaibhavthapliyal/Desktop/COM412/Practical1/obj/Debug/net5.0/Practical1.MvcApplicationPartsAssemblyInfo.cache
+/Users/vaibhavthapliyal/Desktop/COM412/Practical1/obj/Debug/net5.0/Practical1.RazorAssemblyInfo.cache
+/Users/vaibhavthapliyal/Desktop/COM412/Practical1/obj/Debug/net5.0/Practical1.RazorAssemblyInfo.cs

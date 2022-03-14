@@ -1,0 +1,23 @@
+﻿@page
+@model Practical2.pages.SendDetailsModel
+@{
+}
+
+<form method="post" asp-page="ReceiveDetails">
+
+<h2>Personal Details</h2>
+
+<table>
+<tr>
+    <td>Title</td>
+    <td><input name="Title" type="Text"/></td>
+</tr>
+
+<tr>
+    <td>Name</td>
+    <td><input name="Name" type="text"/></td>
+</tr>
+</table>
+<br>
+<input type="submit" value-"Submit" class="submit">
+</form>
